@@ -19,7 +19,7 @@ sudo apt install python3
 ## How To Use
 1.Clone the repository:
 ````
-https://github.com/sabrii6/PRODIGY_CS_O4.git
+https://github.com/gameloverr2000/PRODIGY_CS_04.git
 ````
 2.Navigate to the Directory:
 ````
@@ -27,6 +27,5 @@ cd PRODIGY_CS_04
 ````
 3.Run the Script
 ````
-python3 keylogger.py
-````
+python3 Keylogger.py
 ````
